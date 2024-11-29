@@ -39,19 +39,21 @@ This dataset contains columns simulating credit bureau data. The dataset consist
 
 # Exploratory Data Analysis (EDA):
 
-**Univariate Analysis :  Categorical & Numerical:**
+**Univariate Analysis :  Categorical & Numerical :**
 
 **Key Insights:**
 
-[<•	Most borrowers are young (16-45 years) with limited employment length (0-10 years), suggesting a borrower pool of early-career individuals.
-     •	Renters and mortgage payers dominate, indicating that borrowers are primarily those with regular housing expenses.
-     •	Educational and medical loans are the most common, reflecting financial needs for essential purposes.
-     •	Non-defaulters vastly outnumber defaulters, showing that most borrowers manage to repay loans successfully
-     •	Borrowers with incomes between $50,000-$100,000 form the largest group, representing economically active individuals. Interest rates are primarily clustered around 7.5%, with an average of 11.03%, and goes as high as 22.5%]>
+•	Most borrowers are young (16-45 years) with limited employment length (0-10 years), suggesting a borrower pool of early-career individuals.
+•	Renters and mortgage payers dominate, indicating that borrowers are primarily those with regular housing expenses.
+•	Educational and medical loans are the most common, reflecting financial needs for essential purposes.
+•	Non-defaulters vastly outnumber defaulters, showing that most borrowers manage to repay loans successfully
+•	Borrowers with incomes between $50,000-$100,000 form the largest group, representing economically active individuals. Interest rates are primarily clustered around 7.5%, with an average of 11.03%, and goes as high as 22.5%
 •	A low loan-to-income ratio (0-0.2%) is prevalent, indicating that affordability is a key consideration for most loans.
 •	Many borrowers have short credit histories (0-5 years), reflecting their younger age and limited financial experience.
 
-Bivariate Analysis Key Insights:
+**Bivariate Analysis :**
+
+**Key Insights:**
 The Bivariate analysis reveals key patterns in borrower behavior related to loan defaults:
 •	Mortgage payers are more likely to repay their loans, while rent payers have higher default rates.
 •	Borrowers with educational loans are more likely to repay than those with medical loans, indicating that education-related loans carry lower risk.
