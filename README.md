@@ -46,7 +46,7 @@ This dataset contains columns simulating credit bureau data. The dataset consist
 
 ![image](https://github.com/user-attachments/assets/a01b312a-5bd6-43a9-ba65-e4553381b06f)
 
-![image](https://github.com/user-attachments/assets/b9ef2a25-d096-4105-a143-25af5af20a4f)
+<img width="723" alt="image" src="https://github.com/user-attachments/assets/33726387-1c3e-48ff-b2aa-82b17fc752d2">
 
 
  **Removing Outliers:**
