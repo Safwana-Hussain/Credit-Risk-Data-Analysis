@@ -123,7 +123,7 @@ The Bivariate analysis reveals key patterns in borrower behavior related to loan
 ![image](https://github.com/user-attachments/assets/f50d4d44-231f-4eaf-80ef-5a8d89efdeda)
 
 
-**Key Insights: **
+**Key Insights:**
  
 •	Loan_int_rate correlates with loan_grade and previous default history.
 
@@ -262,7 +262,7 @@ Random Forest provides insights into feature importance by measuring how much ea
 •	Deciding thresholds for features like loan-to-income ratio and interest rates.
 
 
-**Lessons Learned: **
+**Lessons Learned:**
 
 •	Feature engineering is critical in enhancing model accuracy and interpretability.
 
