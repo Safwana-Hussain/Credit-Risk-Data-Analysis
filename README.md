@@ -24,7 +24,7 @@ This dataset contains columns simulating credit bureau data. The dataset consist
 
 # Data Cleaning and Preprocessing:
    
-**	Handling Null Values:**
+**Handling Null Values:**
 
 •	'person_emp_length': 2.7% missing values were dropped.
 
